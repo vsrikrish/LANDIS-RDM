@@ -1,0 +1,127 @@
+,Scenario,Time,Parameter,Metric,Units,Climate_Scenario,Climate_GCM,Management_Scenario,Disturbance_Scenario,Total_Scenario
+1,bcc_LessHarvest_rep1,50, Aspen_Clearcut,13668.02,Biomass removed (g/m2),ClimateChange,bcc,LessHarvest,Wind_Harvest,bcc_LessHarvest
+11,bcc_MoreHarvest_rep1,50, Aspen_Clearcut,19337.58,Biomass removed (g/m2),ClimateChange,bcc,MoreHarvest,Wind_Harvest,bcc_MoreHarvest
+16,bcc_rep1,50, Aspen_Clearcut,22823.04,Biomass removed (g/m2),ClimateChange,bcc,BAU,Wind_Harvest,bcc_BAU
+20,CCSM4_LessHarvest_rep1,50, Aspen_Clearcut,12153.24,Biomass removed (g/m2),ClimateChange,CCSM4,LessHarvest,Wind_Harvest,CCSM4_LessHarvest
+25,CCSM4_MoreHarvest_rep1,50, Aspen_Clearcut,22085.38,Biomass removed (g/m2),ClimateChange,CCSM4,MoreHarvest,Wind_Harvest,CCSM4_MoreHarvest
+36,CCSM4_rep1,50, Aspen_Clearcut,25584.1,Biomass removed (g/m2),ClimateChange,CCSM4,BAU,Wind_Harvest,CCSM4_BAU
+38,CSIRO_LessHarvest_rep1,50, Aspen_Clearcut,12265.22,Biomass removed (g/m2),ClimateChange,CSIRO,LessHarvest,Wind_Harvest,CSIRO_LessHarvest
+46,CSIRO_MoreHarvest_rep1,50, Aspen_Clearcut,21779.94,Biomass removed (g/m2),ClimateChange,CSIRO,MoreHarvest,Wind_Harvest,CSIRO_MoreHarvest
+53,CSIRO_rep1,50, Aspen_Clearcut,20578.66,Biomass removed (g/m2),ClimateChange,CSIRO,BAU,Wind_Harvest,CSIRO_BAU
+58,HAD_GEM2_LessHarvest_rep1,50, Aspen_Clearcut,11926.68,Biomass removed (g/m2),ClimateChange,HAD_GEM2,LessHarvest,Wind_Harvest,HAD_GEM2_LessHarvest
+64,HAD_GEM2_MoreHarvest_rep1,50, Aspen_Clearcut,23132.28,Biomass removed (g/m2),ClimateChange,HAD_GEM2,MoreHarvest,Wind_Harvest,HAD_GEM2_MoreHarvest
+72,HAD_GEM2_rep1,50, Aspen_Clearcut,19775.08,Biomass removed (g/m2),ClimateChange,HAD_GEM2,BAU,Wind_Harvest,HAD_GEM2_BAU
+78,Historical_LessHarvest_rep1,50, Aspen_Clearcut,15371.24,Biomass removed (g/m2),Historical,Historical,LessHarvest,Wind_Harvest,Historical_LessHarvest
+82,Historical_MoreHarvest_rep1,50, Aspen_Clearcut,22529,Biomass removed (g/m2),Historical,Historical,MoreHarvest,Wind_Harvest,Historical_MoreHarvest
+88,Historical_rep1,50, Aspen_Clearcut,22118.62,Biomass removed (g/m2),Historical,Historical,BAU,Wind_Harvest,Historical_BAU
+92,MIROC-ESM_rep1,50, Aspen_Clearcut,24023.84,Biomass removed (g/m2),ClimateChange,MIROC-ESM,BAU,Wind_Harvest,MIROC-ESM_BAU
+102,MIROC_LessHarvest_rep1,50, Aspen_Clearcut,12629.68,Biomass removed (g/m2),ClimateChange,MIROC-ESM,LessHarvest,Wind_Harvest,MIROC-ESM_LessHarvest
+107,MIROC_MoreHarvest_rep1,50, Aspen_Clearcut,29257.06,Biomass removed (g/m2),ClimateChange,MIROC-ESM,MoreHarvest,Wind_Harvest,MIROC-ESM_MoreHarvest
+112,MRI_LessHarvest_rep1,50, Aspen_Clearcut,12611.66,Biomass removed (g/m2),ClimateChange,MRI,LessHarvest,Wind_Harvest,MRI_LessHarvest
+119,MRI_MoreHarvest_rep1,50, Aspen_Clearcut,22471.24,Biomass removed (g/m2),ClimateChange,MRI,MoreHarvest,Wind_Harvest,MRI_MoreHarvest
+125,MRI_rep1,50, Aspen_Clearcut,21336.82,Biomass removed (g/m2),ClimateChange,MRI,BAU,Wind_Harvest,MRI_BAU
+2,bcc_LessHarvest_rep1,50, Oak_Shelterwood,1948.36,Biomass removed (g/m2),ClimateChange,bcc,LessHarvest,Wind_Harvest,bcc_LessHarvest
+7,bcc_MoreHarvest_rep1,50, Oak_Shelterwood,1738.2,Biomass removed (g/m2),ClimateChange,bcc,MoreHarvest,Wind_Harvest,bcc_MoreHarvest
+17,bcc_rep1,50, Oak_Shelterwood,1310.22,Biomass removed (g/m2),ClimateChange,bcc,BAU,Wind_Harvest,bcc_BAU
+19,CCSM4_LessHarvest_rep1,50, Oak_Shelterwood,2473.15,Biomass removed (g/m2),ClimateChange,CCSM4,LessHarvest,Wind_Harvest,CCSM4_LessHarvest
+27,CCSM4_MoreHarvest_rep1,50, Oak_Shelterwood,2262.23,Biomass removed (g/m2),ClimateChange,CCSM4,MoreHarvest,Wind_Harvest,CCSM4_MoreHarvest
+35,CCSM4_rep1,50, Oak_Shelterwood,1516.04,Biomass removed (g/m2),ClimateChange,CCSM4,BAU,Wind_Harvest,CCSM4_BAU
+37,CSIRO_LessHarvest_rep1,50, Oak_Shelterwood,3986.87,Biomass removed (g/m2),ClimateChange,CSIRO,LessHarvest,Wind_Harvest,CSIRO_LessHarvest
+47,CSIRO_MoreHarvest_rep1,50, Oak_Shelterwood,1900.82,Biomass removed (g/m2),ClimateChange,CSIRO,MoreHarvest,Wind_Harvest,CSIRO_MoreHarvest
+52,CSIRO_rep1,50, Oak_Shelterwood,2061.54,Biomass removed (g/m2),ClimateChange,CSIRO,BAU,Wind_Harvest,CSIRO_BAU
+55,HAD_GEM2_LessHarvest_rep1,50, Oak_Shelterwood,1642.1,Biomass removed (g/m2),ClimateChange,HAD_GEM2,LessHarvest,Wind_Harvest,HAD_GEM2_LessHarvest
+65,HAD_GEM2_MoreHarvest_rep1,50, Oak_Shelterwood,1411.58,Biomass removed (g/m2),ClimateChange,HAD_GEM2,MoreHarvest,Wind_Harvest,HAD_GEM2_MoreHarvest
+70,HAD_GEM2_rep1,50, Oak_Shelterwood,2727.43,Biomass removed (g/m2),ClimateChange,HAD_GEM2,BAU,Wind_Harvest,HAD_GEM2_BAU
+75,Historical_LessHarvest_rep1,50, Oak_Shelterwood,2306.82,Biomass removed (g/m2),Historical,Historical,LessHarvest,Wind_Harvest,Historical_LessHarvest
+81,Historical_MoreHarvest_rep1,50, Oak_Shelterwood,1267.05,Biomass removed (g/m2),Historical,Historical,MoreHarvest,Wind_Harvest,Historical_MoreHarvest
+86,Historical_rep1,50, Oak_Shelterwood,1636.81,Biomass removed (g/m2),Historical,Historical,BAU,Wind_Harvest,Historical_BAU
+94,MIROC-ESM_rep1,50, Oak_Shelterwood,2430.24,Biomass removed (g/m2),ClimateChange,MIROC-ESM,BAU,Wind_Harvest,MIROC-ESM_BAU
+100,MIROC_LessHarvest_rep1,50, Oak_Shelterwood,2605.45,Biomass removed (g/m2),ClimateChange,MIROC-ESM,LessHarvest,Wind_Harvest,MIROC-ESM_LessHarvest
+105,MIROC_MoreHarvest_rep1,50, Oak_Shelterwood,1398.73,Biomass removed (g/m2),ClimateChange,MIROC-ESM,MoreHarvest,Wind_Harvest,MIROC-ESM_MoreHarvest
+109,MRI_LessHarvest_rep1,50, Oak_Shelterwood,3158.35,Biomass removed (g/m2),ClimateChange,MRI,LessHarvest,Wind_Harvest,MRI_LessHarvest
+117,MRI_MoreHarvest_rep1,50, Oak_Shelterwood,989.55,Biomass removed (g/m2),ClimateChange,MRI,MoreHarvest,Wind_Harvest,MRI_MoreHarvest
+126,MRI_rep1,50, Oak_Shelterwood,2958.02,Biomass removed (g/m2),ClimateChange,MRI,BAU,Wind_Harvest,MRI_BAU
+6,bcc_LessHarvest_rep1,50,C_stocks,7391.85,C density (g/m2),ClimateChange,bcc,LessHarvest,Wind_Harvest,bcc_LessHarvest
+8,bcc_MoreHarvest_rep1,50,C_stocks,7262.2,C density (g/m2),ClimateChange,bcc,MoreHarvest,Wind_Harvest,bcc_MoreHarvest
+13,bcc_rep1,50,C_stocks,7306.15,C density (g/m2),ClimateChange,bcc,BAU,Wind_Harvest,bcc_BAU
+24,CCSM4_LessHarvest_rep1,50,C_stocks,7764.75,C density (g/m2),ClimateChange,CCSM4,LessHarvest,Wind_Harvest,CCSM4_LessHarvest
+30,CCSM4_MoreHarvest_rep1,50,C_stocks,7619.05,C density (g/m2),ClimateChange,CCSM4,MoreHarvest,Wind_Harvest,CCSM4_MoreHarvest
+32,CCSM4_rep1,50,C_stocks,7788.45,C density (g/m2),ClimateChange,CCSM4,BAU,Wind_Harvest,CCSM4_BAU
+42,CSIRO_LessHarvest_rep1,50,C_stocks,7541.55,C density (g/m2),ClimateChange,CSIRO,LessHarvest,Wind_Harvest,CSIRO_LessHarvest
+44,CSIRO_MoreHarvest_rep1,50,C_stocks,7315.65,C density (g/m2),ClimateChange,CSIRO,MoreHarvest,Wind_Harvest,CSIRO_MoreHarvest
+49,CSIRO_rep1,50,C_stocks,7529.5,C density (g/m2),ClimateChange,CSIRO,BAU,Wind_Harvest,CSIRO_BAU
+60,HAD_GEM2_LessHarvest_rep1,50,C_stocks,7605.35,C density (g/m2),ClimateChange,HAD_GEM2,LessHarvest,Wind_Harvest,HAD_GEM2_LessHarvest
+66,HAD_GEM2_MoreHarvest_rep1,50,C_stocks,7367.6,C density (g/m2),ClimateChange,HAD_GEM2,MoreHarvest,Wind_Harvest,HAD_GEM2_MoreHarvest
+69,HAD_GEM2_rep1,50,C_stocks,7314.3,C density (g/m2),ClimateChange,HAD_GEM2,BAU,Wind_Harvest,HAD_GEM2_BAU
+73,Historical_LessHarvest_rep1,50,C_stocks,7799.8,C density (g/m2),Historical,Historical,LessHarvest,Wind_Harvest,Historical_LessHarvest
+79,Historical_MoreHarvest_rep1,50,C_stocks,7311.15,C density (g/m2),Historical,Historical,MoreHarvest,Wind_Harvest,Historical_MoreHarvest
+85,Historical_rep1,50,C_stocks,7602.15,C density (g/m2),Historical,Historical,BAU,Wind_Harvest,Historical_BAU
+96,MIROC-ESM_rep1,50,C_stocks,7681.3,C density (g/m2),ClimateChange,MIROC-ESM,BAU,Wind_Harvest,MIROC-ESM_BAU
+98,MIROC_LessHarvest_rep1,50,C_stocks,7730.2,C density (g/m2),ClimateChange,MIROC-ESM,LessHarvest,Wind_Harvest,MIROC-ESM_LessHarvest
+108,MIROC_MoreHarvest_rep1,50,C_stocks,7413.5,C density (g/m2),ClimateChange,MIROC-ESM,MoreHarvest,Wind_Harvest,MIROC-ESM_MoreHarvest
+113,MRI_LessHarvest_rep1,50,C_stocks,7973.4,C density (g/m2),ClimateChange,MRI,LessHarvest,Wind_Harvest,MRI_LessHarvest
+116,MRI_MoreHarvest_rep1,50,C_stocks,7607.3,C density (g/m2),ClimateChange,MRI,MoreHarvest,Wind_Harvest,MRI_MoreHarvest
+122,MRI_rep1,50,C_stocks,7756.15,C density (g/m2),ClimateChange,MRI,BAU,Wind_Harvest,MRI_BAU
+3,bcc_LessHarvest_rep1,50,MeanNumber_spp,11.45384727,,ClimateChange,bcc,LessHarvest,Wind_Harvest,bcc_LessHarvest
+10,bcc_MoreHarvest_rep1,50,MeanNumber_spp,11.26407204,,ClimateChange,bcc,MoreHarvest,Wind_Harvest,bcc_MoreHarvest
+15,bcc_rep1,50,MeanNumber_spp,11.34887909,,ClimateChange,bcc,BAU,Wind_Harvest,bcc_BAU
+22,CCSM4_LessHarvest_rep1,50,MeanNumber_spp,11.70281037,,ClimateChange,CCSM4,LessHarvest,Wind_Harvest,CCSM4_LessHarvest
+28,CCSM4_MoreHarvest_rep1,50,MeanNumber_spp,11.63915936,,ClimateChange,CCSM4,MoreHarvest,Wind_Harvest,CCSM4_MoreHarvest
+34,CCSM4_rep1,50,MeanNumber_spp,11.75362979,,ClimateChange,CCSM4,BAU,Wind_Harvest,CCSM4_BAU
+41,CSIRO_LessHarvest_rep1,50,MeanNumber_spp,11.6541232,,ClimateChange,CSIRO,LessHarvest,Wind_Harvest,CSIRO_LessHarvest
+43,CSIRO_MoreHarvest_rep1,50,MeanNumber_spp,11.46328561,,ClimateChange,CSIRO,MoreHarvest,Wind_Harvest,CSIRO_MoreHarvest
+54,CSIRO_rep1,50,MeanNumber_spp,11.68407165,,ClimateChange,CSIRO,BAU,Wind_Harvest,CSIRO_BAU
+56,HAD_GEM2_LessHarvest_rep1,50,MeanNumber_spp,11.25423062,,ClimateChange,HAD_GEM2,LessHarvest,Wind_Harvest,HAD_GEM2_LessHarvest
+61,HAD_GEM2_MoreHarvest_rep1,50,MeanNumber_spp,11.07569812,,ClimateChange,HAD_GEM2,MoreHarvest,Wind_Harvest,HAD_GEM2_MoreHarvest
+68,HAD_GEM2_rep1,50,MeanNumber_spp,11.07740326,,ClimateChange,HAD_GEM2,BAU,Wind_Harvest,HAD_GEM2_BAU
+77,Historical_LessHarvest_rep1,50,MeanNumber_spp,12.8166227,,Historical,Historical,LessHarvest,Wind_Harvest,Historical_LessHarvest
+84,Historical_MoreHarvest_rep1,50,MeanNumber_spp,12.56598347,,Historical,Historical,MoreHarvest,Wind_Harvest,Historical_MoreHarvest
+89,Historical_rep1,50,MeanNumber_spp,12.92722233,,Historical,Historical,BAU,Wind_Harvest,Historical_BAU
+91,MIROC-ESM_rep1,50,MeanNumber_spp,11.22366609,,ClimateChange,MIROC-ESM,BAU,Wind_Harvest,MIROC-ESM_BAU
+101,MIROC_LessHarvest_rep1,50,MeanNumber_spp,11.25757356,,ClimateChange,MIROC-ESM,LessHarvest,Wind_Harvest,MIROC-ESM_LessHarvest
+104,MIROC_MoreHarvest_rep1,50,MeanNumber_spp,10.95948507,,ClimateChange,MIROC-ESM,MoreHarvest,Wind_Harvest,MIROC-ESM_MoreHarvest
+110,MRI_LessHarvest_rep1,50,MeanNumber_spp,12.3914132,,ClimateChange,MRI,LessHarvest,Wind_Harvest,MRI_LessHarvest
+120,MRI_MoreHarvest_rep1,50,MeanNumber_spp,12.07785888,,ClimateChange,MRI,MoreHarvest,Wind_Harvest,MRI_MoreHarvest
+121,MRI_rep1,50,MeanNumber_spp,12.22890407,,ClimateChange,MRI,BAU,Wind_Harvest,MRI_BAU
+4,bcc_LessHarvest_rep1,50,Oak_Habitat,4517,hectares,ClimateChange,bcc,LessHarvest,Wind_Harvest,bcc_LessHarvest
+12,bcc_MoreHarvest_rep1,50,Oak_Habitat,4232,hectares,ClimateChange,bcc,MoreHarvest,Wind_Harvest,bcc_MoreHarvest
+18,bcc_rep1,50,Oak_Habitat,4494,hectares,ClimateChange,bcc,BAU,Wind_Harvest,bcc_BAU
+23,CCSM4_LessHarvest_rep1,50,Oak_Habitat,3716,hectares,ClimateChange,CCSM4,LessHarvest,Wind_Harvest,CCSM4_LessHarvest
+26,CCSM4_MoreHarvest_rep1,50,Oak_Habitat,3796,hectares,ClimateChange,CCSM4,MoreHarvest,Wind_Harvest,CCSM4_MoreHarvest
+31,CCSM4_rep1,50,Oak_Habitat,3651,hectares,ClimateChange,CCSM4,BAU,Wind_Harvest,CCSM4_BAU
+39,CSIRO_LessHarvest_rep1,50,Oak_Habitat,4320,hectares,ClimateChange,CSIRO,LessHarvest,Wind_Harvest,CSIRO_LessHarvest
+45,CSIRO_MoreHarvest_rep1,50,Oak_Habitat,4488,hectares,ClimateChange,CSIRO,MoreHarvest,Wind_Harvest,CSIRO_MoreHarvest
+50,CSIRO_rep1,50,Oak_Habitat,4133,hectares,ClimateChange,CSIRO,BAU,Wind_Harvest,CSIRO_BAU
+57,HAD_GEM2_LessHarvest_rep1,50,Oak_Habitat,4623,hectares,ClimateChange,HAD_GEM2,LessHarvest,Wind_Harvest,HAD_GEM2_LessHarvest
+63,HAD_GEM2_MoreHarvest_rep1,50,Oak_Habitat,5205,hectares,ClimateChange,HAD_GEM2,MoreHarvest,Wind_Harvest,HAD_GEM2_MoreHarvest
+71,HAD_GEM2_rep1,50,Oak_Habitat,5022,hectares,ClimateChange,HAD_GEM2,BAU,Wind_Harvest,HAD_GEM2_BAU
+76,Historical_LessHarvest_rep1,50,Oak_Habitat,2661,hectares,Historical,Historical,LessHarvest,Wind_Harvest,Historical_LessHarvest
+80,Historical_MoreHarvest_rep1,50,Oak_Habitat,3050,hectares,Historical,Historical,MoreHarvest,Wind_Harvest,Historical_MoreHarvest
+87,Historical_rep1,50,Oak_Habitat,3230,hectares,Historical,Historical,BAU,Wind_Harvest,Historical_BAU
+95,MIROC-ESM_rep1,50,Oak_Habitat,4863,hectares,ClimateChange,MIROC-ESM,BAU,Wind_Harvest,MIROC-ESM_BAU
+97,MIROC_LessHarvest_rep1,50,Oak_Habitat,4944,hectares,ClimateChange,MIROC-ESM,LessHarvest,Wind_Harvest,MIROC-ESM_LessHarvest
+103,MIROC_MoreHarvest_rep1,50,Oak_Habitat,5123,hectares,ClimateChange,MIROC-ESM,MoreHarvest,Wind_Harvest,MIROC-ESM_MoreHarvest
+111,MRI_LessHarvest_rep1,50,Oak_Habitat,3258,hectares,ClimateChange,MRI,LessHarvest,Wind_Harvest,MRI_LessHarvest
+115,MRI_MoreHarvest_rep1,50,Oak_Habitat,4013,hectares,ClimateChange,MRI,MoreHarvest,Wind_Harvest,MRI_MoreHarvest
+123,MRI_rep1,50,Oak_Habitat,3701,hectares,ClimateChange,MRI,BAU,Wind_Harvest,MRI_BAU
+5,bcc_LessHarvest_rep1,50,ShannonDiversity,1.77291931,,ClimateChange,bcc,LessHarvest,Wind_Harvest,bcc_LessHarvest
+9,bcc_MoreHarvest_rep1,50,ShannonDiversity,1.747502997,,ClimateChange,bcc,MoreHarvest,Wind_Harvest,bcc_MoreHarvest
+14,bcc_rep1,50,ShannonDiversity,1.758534073,,ClimateChange,bcc,BAU,Wind_Harvest,bcc_BAU
+21,CCSM4_LessHarvest_rep1,50,ShannonDiversity,1.787353251,,ClimateChange,CCSM4,LessHarvest,Wind_Harvest,CCSM4_LessHarvest
+29,CCSM4_MoreHarvest_rep1,50,ShannonDiversity,1.780247974,,ClimateChange,CCSM4,MoreHarvest,Wind_Harvest,CCSM4_MoreHarvest
+33,CCSM4_rep1,50,ShannonDiversity,1.790014591,,ClimateChange,CCSM4,BAU,Wind_Harvest,CCSM4_BAU
+40,CSIRO_LessHarvest_rep1,50,ShannonDiversity,1.795999646,,ClimateChange,CSIRO,LessHarvest,Wind_Harvest,CSIRO_LessHarvest
+48,CSIRO_MoreHarvest_rep1,50,ShannonDiversity,1.781400867,,ClimateChange,CSIRO,MoreHarvest,Wind_Harvest,CSIRO_MoreHarvest
+51,CSIRO_rep1,50,ShannonDiversity,1.797251504,,ClimateChange,CSIRO,BAU,Wind_Harvest,CSIRO_BAU
+59,HAD_GEM2_LessHarvest_rep1,50,ShannonDiversity,1.76042098,,ClimateChange,HAD_GEM2,LessHarvest,Wind_Harvest,HAD_GEM2_LessHarvest
+62,HAD_GEM2_MoreHarvest_rep1,50,ShannonDiversity,1.740818839,,ClimateChange,HAD_GEM2,MoreHarvest,Wind_Harvest,HAD_GEM2_MoreHarvest
+67,HAD_GEM2_rep1,50,ShannonDiversity,1.741606992,,ClimateChange,HAD_GEM2,BAU,Wind_Harvest,HAD_GEM2_BAU
+74,Historical_LessHarvest_rep1,50,ShannonDiversity,1.877913746,,Historical,Historical,LessHarvest,Wind_Harvest,Historical_LessHarvest
+83,Historical_MoreHarvest_rep1,50,ShannonDiversity,1.852155013,,Historical,Historical,MoreHarvest,Wind_Harvest,Historical_MoreHarvest
+90,Historical_rep1,50,ShannonDiversity,1.884167942,,Historical,Historical,BAU,Wind_Harvest,Historical_BAU
+93,MIROC-ESM_rep1,50,ShannonDiversity,1.770426358,,ClimateChange,MIROC-ESM,BAU,Wind_Harvest,MIROC-ESM_BAU
+99,MIROC_LessHarvest_rep1,50,ShannonDiversity,1.773462899,,ClimateChange,MIROC-ESM,LessHarvest,Wind_Harvest,MIROC-ESM_LessHarvest
+106,MIROC_MoreHarvest_rep1,50,ShannonDiversity,1.743403787,,ClimateChange,MIROC-ESM,MoreHarvest,Wind_Harvest,MIROC-ESM_MoreHarvest
+114,MRI_LessHarvest_rep1,50,ShannonDiversity,1.847599447,,ClimateChange,MRI,LessHarvest,Wind_Harvest,MRI_LessHarvest
+118,MRI_MoreHarvest_rep1,50,ShannonDiversity,1.826792906,,ClimateChange,MRI,MoreHarvest,Wind_Harvest,MRI_MoreHarvest
+124,MRI_rep1,50,ShannonDiversity,1.838353162,,ClimateChange,MRI,BAU,Wind_Harvest,MRI_BAU
